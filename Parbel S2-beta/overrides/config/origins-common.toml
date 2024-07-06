@@ -107,7 +107,7 @@
 		"origins-plus-plus:sporeling/no_netherite" = true
 		"origins-plus-plus:sporeling/fire_damage" = true
 		enabled = false
-		"origins-plus-plus:sporeling/jockey" = true
+		"origins-plus-plus:sporeling/jockey" = false
 		"origins-plus-plus:sporeling/light_armor_upgrade" = true
 		"origins-plus-plus:sporeling/small_upgrade" = true
 		"origins:tailwind" = true
@@ -589,7 +589,7 @@
 		"origins-plus-plus:giant/crossbow" = true
 		"origins-plus-plus:giant/item" = true
 		"origins-plus-plus:giant/slow" = true
-		"origins-plus-plus:giant/mount" = true
+		"origins-plus-plus:giant/mount" = false
 		"origins-plus-plus:giant/sturdy" = true
 		"origins-plus-plus:giant/unwieldy" = true
 		"origins-plus-plus:giant/breath" = true
@@ -612,7 +612,7 @@
 		"origins-plus-plus:birb/feather_grip" = true
 		"origins-plus-plus:birb/granivore" = true
 		"origins-plus-plus:birb/launch" = true
-		"origins-plus-plus:birb/jockey" = true
+		"origins-plus-plus:birb/jockey" = false
 		"origins-plus-plus:birb/love_air" = true
 		enabled = true
 		"origins:more_kinetic_damage" = true
@@ -1030,7 +1030,7 @@
 		"origins:fall_immunity" = true
 		"origins-plus-plus:binturong/blast_damage" = true
 		"origins-plus-plus:binturong/crouch" = true
-		"origins-plus-plus:binturong/jockey" = true
+		"origins-plus-plus:binturong/jockey" = false
 		"origins-plus-plus:binturong/nocturnal" = true
 		enabled = false
 		"origins:climbing" = true
@@ -1498,7 +1498,7 @@
 		"origins-plus-plus:sporeling/small" = true
 		"origins-plus-plus:sporeling/speed" = true
 		enabled = true
-		"origins-plus-plus:sporeling/jockey" = true
+		"origins-plus-plus:sporeling/jockey" = false
 
 	[origins."origins-plus-plus:technomancer"]
 		"origins-plus-plus:technomancer/blockade" = true
@@ -1716,7 +1716,7 @@
 		"origins:arthropod" = true
 		"origins-plus-plus:flea/inch_tall" = true
 		"origins-plus-plus:flea/nimble" = true
-		"origins-plus-plus:flea/jockey" = true
+		"origins-plus-plus:flea/jockey" = false
 		"origins-plus-plus:flea/disable_regen" = true
 		"origins-plus-plus:flea/bloodsucking" = true
 
