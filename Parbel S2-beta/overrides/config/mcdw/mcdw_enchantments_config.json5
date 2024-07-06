@@ -132,7 +132,7 @@
 		"COMMITTED": {
 			"comment": null,
 			"offset": 0.0,
-			"isEnabled": false,
+			"isEnabled": true,
 			"isAvailableForEnchantedBookOffer": true,
 			"isAvailableForRandomSelection": true,
 			"maxLevel": 3,
