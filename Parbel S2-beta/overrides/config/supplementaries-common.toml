@@ -369,7 +369,7 @@
 		bypass_when_on = "MAIN_HAND"
 
 	[tools.rope_arrow]
-		enabled = true
+		enabled = false
 		#Max number of robe items allowed to be stored inside a rope arrow
 		#Range: 1 ~ 256
 		capacity = 32
@@ -406,7 +406,7 @@
 			break_blocks = "WEAK"
 
 	[tools.slingshot]
-		enabled = true
+		enabled = false
 		#Slingshot range multiplier. Affect the initial projectile speed
 		#Range: 0.0 ~ 5.0
 		range_multiplier = 1.0
