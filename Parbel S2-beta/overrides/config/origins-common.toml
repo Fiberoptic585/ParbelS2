@@ -106,7 +106,7 @@
 		"origins-plus-plus:sporeling/decomposer" = true
 		"origins-plus-plus:sporeling/no_netherite" = true
 		"origins-plus-plus:sporeling/fire_damage" = true
-		enabled = true
+		enabled = false
 		"origins-plus-plus:sporeling/jockey" = true
 		"origins-plus-plus:sporeling/light_armor_upgrade" = true
 		"origins-plus-plus:sporeling/small_upgrade" = true
@@ -481,7 +481,8 @@
 		"origins-plus-plus:mothling/boost" = true
 		"origins-plus-plus:mothling/weight" = true
 		"origins-plus-plus:mothling/leather_diet" = true
-		enabled = true
+		enabled = false
+
 		"origins-plus-plus:mothling/no_food" = true
 
 	[origins."origins:enderian"]
@@ -500,7 +501,7 @@
 		"origins-plus-plus:ryu/all_knowing" = true
 		"origins-plus-plus:ryu/healing_potions" = true
 		"origins-plus-plus:ryu/friendly_eyes" = true
-		enabled = true
+		enabled = false
 		"origins-plus-plus:ryu/big_body" = true
 		"origins-plus-plus:ryu/better_odds" = true
 		"origins:more_exhaustion" = true
@@ -557,7 +558,7 @@
 		"origins-plus-plus:kirin/exhaustion" = true
 		"origins:carnivore" = true
 		"origins:fall_immunity" = true
-		enabled = true
+		enabled = false
 		"origins-plus-plus:kirin/cat_size" = true
 		"origins:cat_vision" = true
 		"origins-plus-plus:kirin/modify_player_speed" = true
@@ -606,7 +607,7 @@
 
 	[origins."origins-plus-plus:birb"]
 		"origins:elytra" = true
-		"origins-plus-plus:birb/more_air_damage" = true
+		"origins-plus-plus:birb/more_air_damage" = false
 		"origins-plus-plus:birb/smaller_body" = true
 		"origins-plus-plus:birb/feather_grip" = true
 		"origins-plus-plus:birb/granivore" = true
@@ -695,7 +696,7 @@
 		"origins-plus-plus:gaia/floral_teaming" = true
 		"origins-plus-plus:gaia/plant_based" = true
 		"origins-plus-plus:gaia/floral_teaming_conduit" = true
-		enabled = true
+		enabled = false
 		"origins:climbing" = true
 		"origins-plus-plus:gaia/floral_superiority" = true
 		"origins-plus-plus:gaia/floral_teaming_regeneration" = true
@@ -824,7 +825,7 @@
 		"origins-plus-plus:cobra/cold_resource" = true
 		"origins-plus-plus:cobra/poison_shot" = true
 		"origins-plus-plus:cobra/cobras_touch" = true
-		enabled = true
+		enabled = false
 		"origins-plus-plus:cobra/one_block_height" = true
 		"origins:no_shield" = true
 		"origins-plus-plus:cobra/strength_in_nether" = true
@@ -870,7 +871,7 @@
 		"origins:phantomize_overlay" = true
 
 	[origins."origins-plus-plus:part_robot"]
-		"origins:strong_arms" = true
+		"origins:strong_arms" = false
 		"origins:water_vulnerability" = true
 		"origins-plus-plus:part-robot/no_regeneration" = true
 		"origins-plus-plus:part-robot/laser" = true
@@ -1031,7 +1032,7 @@
 		"origins-plus-plus:binturong/crouch" = true
 		"origins-plus-plus:binturong/jockey" = true
 		"origins-plus-plus:binturong/nocturnal" = true
-		enabled = true
+		enabled = false
 		"origins:climbing" = true
 		"origins:scare_creepers" = true
 		"origins-plus-plus:binturong/leap" = true
@@ -1051,7 +1052,7 @@
 		"origins-plus-plus:deathsworn/appraisal" = true
 		"origins-plus-plus:deathsworn/disconnect" = true
 		"origins-plus-plus:deathsworn/freeze" = true
-		enabled = true
+		enabled = false
 		"origins-plus-plus:deathsworn/night_lover" = true
 		"origins-plus-plus:deathsworn/command" = true
 		"origins-plus-plus:deathsworn/join_team" = true
@@ -1120,7 +1121,7 @@
 		"origins-plus-plus:volcanic-dragon/lava_breath" = true
 		"origins-plus-plus:volcanic-dragon/nether_spawn" = true
 		"origins:fall_immunity" = true
-		enabled = true
+		enabled = false
 		"origins-plus-plus:volcanic-dragon/fast_metabolism" = true
 		"origins-plus-plus:volcanic-dragon/weakness_in_cold" = true
 		"origins-plus-plus:volcanic-dragon/natural_armor" = true
@@ -1194,7 +1195,7 @@
 		"origins-plus-plus:mouse/yoink" = true
 		"origins-plus-plus:mouse/a_mouses_lifespan" = true
 		"origins-plus-plus:mouse/mouse_sized" = true
-		enabled = true
+		enabled = false
 		"origins-plus-plus:mouse/ride" = true
 
 	[origins."origins-plus-plus:half_wither"]
@@ -1283,8 +1284,8 @@
 		"origins-plus-plus:child-of-cthulhu/size_resource" = true
 		"origins-plus-plus:child-of-cthulhu/water_lungs" = true
 		"origins-plus-plus:child-of-cthulhu/launch" = true
-		"origins-plus-plus:child-of-cthulhu/size_change" = true
-		"origins-plus-plus:child-of-cthulhu/size_changer" = true
+		"origins-plus-plus:child-of-cthulhu/size_change" = false
+		"origins-plus-plus:child-of-cthulhu/size_changer" = false
 		"origins-plus-plus:child-of-cthulhu/water_vision" = true
 		"origins-plus-plus:child-of-cthulhu/slowness_on_land" = true
 		enabled = true
@@ -1383,7 +1384,8 @@
 		"origins-plus-plus:withered-fox/float" = true
 
 	[origins."origins-plus-plus:withered_skeletian"]
-		"origins-plus-plus:withered-skeletian/sharper_stone" = true
+		"origins-plus-plus:withered-skeletian/sharper_stone" = false
+
 		"origins-plus-plus:withered-skeletian/unnatural_height" = true
 		"origins-plus-plus:withered-skeletian/immune" = true
 		"origins-plus-plus:withered-skeletian/s_and_p/hit" = true
@@ -1417,7 +1419,7 @@
 		"origins-plus-plus:bedrockean/no_elytra" = true
 		"origins-plus-plus:bedrockean/overtime" = true
 		"origins-plus-plus:bedrockean/heal" = true
-		enabled = true
+		enabled = false
 		"origins-plus-plus:bedrockean/bulky" = true
 		"origins-plus-plus:bedrockean/immobile" = true
 		"origins:no_shield" = true
@@ -1510,7 +1512,7 @@
 		"origins-plus-plus:technomancer/laser_beam" = true
 		"origins-plus-plus:technomancer/tech_mana" = true
 		"origins-plus-plus:technomancer/grappling_hook" = true
-		enabled = true
+		enabled = false
 
 	[origins."origins-plus-plus:shadow"]
 		"origins-plus-plus:shadow/fragile" = true
@@ -1555,7 +1557,7 @@
 		"origins-plus-plus:warforged/rust" = true
 		"origins-plus-plus:warforged/scotopic_vision" = true
 		"origins-plus-plus:warforged/weaponized_body" = true
-		enabled = true
+		enabled = false
 
 	[origins."origins-plus-plus:ignisian"]
 		"origins-plus-plus:ignisian/heavyweight" = true
@@ -1707,7 +1709,7 @@
 		"origins-plus-plus:flea/small_heart" = true
 		"origins-plus-plus:flea/small_stomach" = true
 		"origins-plus-plus:flea/antivore" = true
-		enabled = true
+		enabled = false
 		"origins:climbing" = true
 		"origins-plus-plus:flea/regen" = true
 		"origins-plus-plus:flea/diseased_bite" = true
@@ -1891,7 +1893,7 @@
 		"origins-plus-plus:pixie/bite_sized" = true
 		"origins-plus-plus:pixie/speed" = true
 		"origins-plus-plus:pixie/pixie_dust" = true
-		enabled = true
+		enabled = false
 		"origins-plus-plus:pixie/effect_glow" = true
 		"origins-plus-plus:pixie/no_fireworks" = true
 
@@ -1909,7 +1911,7 @@
 		"origins-plus-plus:broodmother/spider_kinship" = true
 		"origins-plus-plus:broodmother/climbing" = true
 		"origins-plus-plus:broodmother/long_jump" = true
-		enabled = true
+		enabled = false
 		"origins-plus-plus:broodmother/mineshaft_spawn" = true
 		"origins-plus-plus:broodmother/poison_immunity" = true
 		"origins:no_shield" = true
