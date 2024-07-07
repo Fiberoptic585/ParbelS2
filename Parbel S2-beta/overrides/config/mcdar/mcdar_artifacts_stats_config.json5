@@ -164,7 +164,7 @@
 		},
 		"POWERSHAKER": {
 			"comment": null,
-			"isEnabled": true,
+			"isEnabled": false,
 			"durability": 64,
 			"maxCooldownEnchantmentTime": 600,
 			"generalSpawnWeight": 2,
@@ -366,7 +366,7 @@
 				"the higher the value, the longer the effect lasts;",
 				"the lower the value, the shorter the effect lasts."
 			],
-			"isEnabled": true,
+			"isEnabled": false,
 			"durability": 8,
 			"maxCooldownEnchantmentTime": 500,
 			"generalSpawnWeight": 2,
@@ -402,7 +402,7 @@
 				"the higher the value, the longer the effect lasts;",
 				"the lower the value, the shorter the effect lasts."
 			],
-			"isEnabled": true,
+			"isEnabled": false,
 			"durability": 8,
 			"maxCooldownEnchantmentTime": 600,
 			"generalSpawnWeight": 2,
@@ -425,7 +425,7 @@
 				"the higher the value, the longer the effect lasts;",
 				"the lower the value, the shorter the effect lasts."
 			],
-			"isEnabled": true,
+			"isEnabled": false,
 			"durability": 8,
 			"maxCooldownEnchantmentTime": 600,
 			"generalSpawnWeight": 2,
@@ -448,7 +448,7 @@
 				"the higher the value, the longer the effect lasts;",
 				"the lower the value, the shorter the effect lasts."
 			],
-			"isEnabled": true,
+			"isEnabled": false,
 			"durability": 8,
 			"maxCooldownEnchantmentTime": 600,
 			"generalSpawnWeight": 2,
