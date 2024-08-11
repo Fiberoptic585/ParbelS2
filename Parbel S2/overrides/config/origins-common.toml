@@ -482,7 +482,6 @@
 		"origins-plus-plus:mothling/weight" = true
 		"origins-plus-plus:mothling/leather_diet" = true
 		enabled = false
-
 		"origins-plus-plus:mothling/no_food" = true
 
 	[origins."origins:enderian"]
@@ -1385,7 +1384,6 @@
 
 	[origins."origins-plus-plus:withered_skeletian"]
 		"origins-plus-plus:withered-skeletian/sharper_stone" = false
-
 		"origins-plus-plus:withered-skeletian/unnatural_height" = true
 		"origins-plus-plus:withered-skeletian/immune" = true
 		"origins-plus-plus:withered-skeletian/s_and_p/hit" = true
